@@ -15,10 +15,13 @@
     <string name="fluency_instructions">"Tell me as many words as you can think of that begin with %1$s. You can say any kind of word you want, except for proper nouns (like Bob or Boston), numbers, or words that begin with the same sound but have a different suffix, for example, love, lover, loving. I will tell you to stop after one minute "</string>
     <string name="backwards_instructions">Now I am going to say some more numbers, but when I am through you must repeat them to me in the backwards order.</string>
     <string name="memory_instructions">I am going to read a list of words that you will have to remember now and later on. Tell me as many words as you can remember. It doesn’t matter in what order you say them. I am going to read the same list for a second time. Try to remember and tell me as many words as you can, including words you said the first time. I will ask you to recall those words again at the end of the test.</string>
+    <string name="memory_instructions_2">I am going to read the same list a second time. Try to remember and tell me as many words as you can, including the ones you mentioned the first time.</string>
+    <string name="memory_instructions_last">I will ask you again at the end of this test which words you remember.</string>
     <string name="numbers_instructions">I am going to say some numbers and when I am through, type them to me exactly as I said them</string>
     <string name="letters_instructions">I am going to read a sequence of letters. Every time I say the letter %1$s, tap your hand once. If I say a different letter, do not tap.</string>
     <string name="substraction_instructions">Now, I will ask you to count by subtracting %1$d from %2$d, and then, keep subtracting %1$d from your answer until I tell you to stop</string>
     <string name="language_instructions">I am going to read you a sentence. Repeat it after me, exactly as I say it.</string>
+    <string name="language_instructions_2">Now I am going to read you another sentence. Repeat this one, just as I said it.</string>
     <string name="abstraction_instruction">I am going to give you two words and I want you to introduce the similarity of them.</string>
     <string name="recall_instructions">I read some words to you earlier, which I asked you to remember. Tell me as many of those words as you can remember</string>
     <string name="orientation_instructions">I am going to ask you some question about the date and place you are now.</string>

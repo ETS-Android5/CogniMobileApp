@@ -394,6 +394,7 @@ public class TextTask extends Task implements TTSHandler, TextTaskCallback {
         length = times;
         enumeration();
         if (times > 1) {
+            bannerText.setText(R.string.memory_instructions_2);
             setNextButtonLoopTask();
         } else {
             setNextButtonStandardBehaviour();
@@ -402,6 +403,7 @@ public class TextTask extends Task implements TTSHandler, TextTaskCallback {
         firstInput.setOnEditorActionListener((v, actionId, event) -> handleSubmitKeyboardButton(actionId));
         enableWordList();
         if(timesCompleted == times){
+            bannerText.setText(R.string.memory_instructions_last);
             setNextButtonStandardBehaviour();
         }
         addTextWatcherToInput();
@@ -520,6 +522,7 @@ public class TextTask extends Task implements TTSHandler, TextTaskCallback {
             clearInputs();
             ++index;
             hideInputs();
+            showCountdownAgain();
             if(index >= length){
                 taskIsEnded();
             } else{

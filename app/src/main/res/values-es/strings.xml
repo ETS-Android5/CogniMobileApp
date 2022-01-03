@@ -79,4 +79,7 @@
     <string name="click_done">CLICK!</string>
     <string name="provide_data">INTRODUZCA INFORMACIÓN</string>
     <string name="loading">Cargando …</string>
+    <string name="language_instructions_2">Ahora le voy a leer otra frase. Repitela, tal como lo dije.</string>
+    <string name="memory_instructions_last">Voy a leer la misma lista por segunda vez. Trate de recordar y decirme tantas palabras como pueda, incluidas las que mencionó la primera vez.</string>
+    <string name="memory_instructions_2">Te volveré a preguntar al final de esta prueba cuantas palabras recuerdas.</string>
 </resources>

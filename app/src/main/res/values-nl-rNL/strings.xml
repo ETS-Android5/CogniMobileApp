@@ -79,4 +79,7 @@
     <string name="click_done">KLICK!</string>
     <string name="provide_data">" VERSTREK GEGEVENS"</string>
     <string name="loading">" Bezig met laden …"</string>
+    <string name="language_instructions_2">Nu ga ik u een andere zin voorlezen. Zeg deze na, precieszoals ik hem heb gezegd.</string>
+    <string name="memory_instructions_last">Ik gadezelfde lijst een tweede keer voorlezen. Probeer zo veel mogelijk woorden te onthouden envertel ze me, ook de woorden die u de eerste keer hebt opgenoemd.</string>
+    <string name="memory_instructions_2">Ik zal u aan het eind vandeze test opnieuw vragen welke woorden u zich nog weet te herinneren.</string>
 </resources>
